@@ -22,3 +22,21 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+Database using in the project
+
+*   Sqlite3 
+
+Gems used in the project
+
+*  Gem: Rails Admin 
+
+*  Gem: Rails Admin Rollincode
+
+*  Gem: Devise
+
+*  Gem: CanCanCan
+
+*  Gem: Carrierwave
+
+
