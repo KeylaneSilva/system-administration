@@ -3,6 +3,12 @@ git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
 ruby '2.5.1'
 
+# Gem para gerar os pdfs
+gem 'prawn-rails'
+# Gem para gerar os gráficos
+gem 'gruff'
+#
+gem 'rails_admin_rollincode', '~> 1.0'
 # Upload de imagens
 gem 'carrierwave'
 # Autorização
